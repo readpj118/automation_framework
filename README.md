@@ -1,4 +1,4 @@
-# automation_framework
+# Test Automation Framework
 **Uses BDD principles to perform automation testing of Heroku's test website the-internet.com**
 
 **Features:**
